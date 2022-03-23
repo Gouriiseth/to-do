@@ -1,0 +1,10 @@
+.container{
+    /* width: 100vw; */
+    height: 100vh;
+    background-color:bisque;
+}
+.notes{
+    width: 20vw;
+    height: 40vh;
+    background-color: black;
+}
